@@ -1,3 +1,8 @@
+# Stock Portfolio Manager
+
+This project aims to manage stock portfolios effectively using a JavaFX UI.
+>>>>>>> 39f71997125977d997c67bbaef884935af4d23b7
+=======
 # Stock Portfolio Manager v1.1.0
 
 A comprehensive Java Swing-based stock portfolio management application with real-time market data, advanced charting, and complete trading features.
@@ -25,7 +30,7 @@ A comprehensive Java Swing-based stock portfolio management application with rea
 - **Rate Limiting**: Smart API management (60 requests/minute) with semaphore-based control
 - **Error Handling**: Robust error handling with graceful degradation and user feedback
 - **Database Integration**: H2 embedded database with HikariCP connection pooling
-- **Build System**: Maven-based project with comprehensive dependency management
+- **Build System**: Maven-based build system with comprehensive dependency management
 
 ## Architecture
 
@@ -251,3 +256,8 @@ This project is licensed under the MIT License - see LICENSE file for details.
 
 - **v1.1.0** (Current): Enhanced dashboard with Fortune 500 stocks, improved charts, theme support
 - **v1.0.0**: Initial release with core portfolio management and basic charting
+=======
+# Stock Portfolio Manager
+
+This project aims to manage stock portfolios effectively using a JavaFX UI.
+>>>>>>> 39f71997125977d997c67bbaef884935af4d23b7
